@@ -16,7 +16,7 @@ This web application includes the following features:
 - Export to WordPress button to export selected customer to WordPress and create an account for him.
 - Show button to see customer details
 
-This application is intended to work with the **laravel-wordpress-integration** plugin
+This application is intended to work with the **[laravel-wordpress-integration](https://github.com/renzocastillo/laravel-wordpress-integration)** plugin
 which is a WordPress plugin that needs to be installed and activated at your WordPress website.
 
 ## Application setup
